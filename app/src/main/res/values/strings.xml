@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quotes App</string>
+    <string name="inspire_me">Inspire me</string>
+    <string name="textview">TextView</string>
+</resources>
